@@ -1,4 +1,4 @@
-# Financial Stock Analysis Dashboard | Painel de Análise de Ações Financeiras
+# Superstore Analysis | Análise de um hipermercado
 
 
 ## 📊 Dashboard Preview | Visualização do Dashboard
@@ -6,27 +6,27 @@
 ![Dashboard Screenshot](superstore_dashboard.png)
 
 ## 📊 Data Overview | Visão Geral dos Dados
-**English:** This dashboard analyzes comprehensive stock data including:
-- **Fundamentals**: Market value, P/L, Dividend Yield (DY), Return on Equity (ROE), Intrisic value and P/VP or price to book value (market price/ book value)
-- **Profit**: Net profit over the last 3 and 12 months
-- **Revenue**: Net revenue over the last 3 and 12 months
-- **Stock price**: Min and Max stock price over the last 52 weeks, current stock price
-- **Dynamic Candlestick Chart**: Visual analysis of price movements, market sentiment and trend reversals
-- **Dynamic Stock analysis**: Stock selection and analysis with a timeline chosen by the user
+**English:** This project analyzes comprehensive superstore data including:
+- **Client information**: Customer ID, name and segment
+- **Product information**: Product ID, name, category and sub-category 
+- **Geographical information**: Country, city, state, postal code and region
+- **Sales**: Row ID, order ID, order date, sales, quantity, discount and profit
+- **Shipment**: ship mode
 
-**Português:** Este dashboard analisa dados abrangentes ações financeiras:
-- **Fundamentos**: Valor de mercado, P/L, Rendimento de dividendo, retorno sobre o patrimônio líquido (ROE), valor intrínseco e P/VP (Preço do ativo sobre o valor patrimonial)
-- **Lucro**: Lucro liquído dos últimos 3 e 12 meses
-- **Receita**: Receita liquída dos últimos 3 e 12 meses
-- **Preço da ação**: Preço Minímo e máximo da ação nas últimas 52 semanas, preço atual
-- **Gráfico dinâmico de candlestick**: Análise visual de movimentação do preço, sentimento do mercado e reversões de tendências
-- **Análise de ação dinãmica**: Seleção e análise de ação em período escolhido pelo usuário
+
+**Português:** Este projeto analisa um conjunto completo de dados de um hipermercado, incluindo:
+- **Informações do cliente**: ID do cliente, nome e segmento
+- **Informações do produto**: ID do produto, nome, categoria e subcategoria
+- **Informações geográficas**: país, cidade, estado, código postal e região
+- **Vendas**: ID da linha, ID do pedido, data do pedido, vendas, quantidade, desconto e lucro
+- **Envio**: modo de envio
+
 
 ## ✨ Key Features | Principais Funcionalidades
-- **Timeseries financial analysis** | **Análise financeira temporal**
-- **Interactive charts and filters** | **Gráficos e filtros interativos**
-- **Market behavior analysis** | **Análise de comportamento do mercado**
-- **Intrinsec Analysis with stock/company health insights** | **Análise Intrínseca com entendimento de saúde da ação/empresa**
+- **Complete profit analysis** | **Análise de lucro financeiro**
+- **Interactive charts and filters with microsoft POWER BI** | **Gráficos e filtros interativos com microsoft POWER BI**
+- **Regional Sales behavior analysis** | **Análise de vendas por região**
+- **Discount effect on profit analysis** | **Análise do efeito do desconto no lucro**
 
 ## 🔗 Live Dashboard | Dashboard Online
 **Click the link below to open the interactive dashboard in a new tab:**
