@@ -32,7 +32,7 @@
 **Click the link below to open the interactive dashboard in a new tab:**
 **Clique no link abaixo para abrir o dashboard interativo em uma nova aba:**
 
-🔗 <a href="https://app.powerbi.com/view?r=eyJrIjoiNjJlYWNmMDMtMGIyYi00MjI1LWJjYmEtNDJkM2Q1ZDI5MWYxIiwidCI6IjAyZGU0MmU3LTBjODUtNDNlNC1hYjIyLWQ4ZTM2MzJmMWE0NyJ9" target="_blank">View Interactive Dashboard on Power BI Service</a>
+🔗 <a href="https://app.powerbi.com/view?r=eyJrIjoiZTgxNDUyNjYtZjJiMi00YmU4LTkxYzktMTBjNGY5NzRjNDc3IiwidCI6IjAyZGU0MmU3LTBjODUtNDNlNC1hYjIyLWQ4ZTM2MzJmMWE0NyJ9" target="_blank">View Interactive Dashboard on Power BI Service</a>
 
 *Tip: Right-click → "Open in new tab"* |
 *Dica: Clique com botão direito → "Abrir em nova guia"*
