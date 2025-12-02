@@ -45,6 +45,8 @@
 ## 📁 Files Included | Arquivos Incluídos
 - `Dashboard.pbix` - Main Power BI file | Arquivo principal do Power BI
 - `dashboard_analise_financeira.png` - Dashboard screenshot | Captura de tela do dashboard
+- Sample_Superstore.csv -  Data file | Arquivo de dados
+- supermarket_data_analysis.ipynb - Jupyter notebook with complete analysis | Jupyter notebook com análise completa 
 
 ## 🚀 Getting Started | Como Usar
 1. Open the Power BI Dashboard in a new tab | Abra o Dashboard do Power BI em uma nova guia
