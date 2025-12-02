@@ -1,5 +1,8 @@
 # Superstore Analysis | Análise de um hipermercado
 
+The complete analysis with results, final remarks and recommendations can be found here: `supermarket_data_analysis.ipynb` 
+
+A análise completa com resultados, considerações finais e recomendações pode ser encontrada aqui: `supermarket_data_analysis.ipynb`
 
 ## 📊 Dashboard Preview | Visualização do Dashboard
 
